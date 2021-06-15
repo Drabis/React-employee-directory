@@ -14,8 +14,7 @@
 
   ## Deployed Link
   https://drabis.github.io/react-employee-directory/
-  
-  https://user-images.githubusercontent.com/76567790/122102635-a0901700-cde3-11eb-9953-89d067701d49.mp4
+ 
 
 
   ## Description
