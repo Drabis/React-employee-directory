@@ -8,7 +8,6 @@ tbody {
     display: block;
     overflow-y: auto;
     overflow-x: hidden;
-    max-height: 65vh;
 }
 
 thead,
