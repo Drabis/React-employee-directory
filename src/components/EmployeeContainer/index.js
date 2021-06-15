@@ -3,7 +3,7 @@ import SearchBar from "../SearchBar";
 import EmployeeTable from "../EmployeeTable";
 import API from "../../utils/API";
 
-class EmployeesContainer extends Component {
+class EmployeeContainer extends Component {
   state = {
     search: "",
     employees: [],
@@ -135,4 +135,4 @@ class EmployeesContainer extends Component {
   }
 }
 
-export default EmployeesContainer;
+export default EmployeeContainer;
